@@ -1,0 +1,10 @@
+# Flood Detection from Images using Deep Learning
+# Python 3.10+ recommended (tested with Python 3.12 / TensorFlow 2.21 / Keras 3)
+tensorflow>=2.16
+numpy>=1.26
+pandas>=2.0
+matplotlib>=3.8
+scikit-learn>=1.4
+Pillow>=10.0
+gdown>=5.0
+ipython>=8.0

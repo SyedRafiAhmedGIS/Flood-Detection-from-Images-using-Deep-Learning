@@ -1,0 +1,41 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.python-version
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Project: datasets & models are downloaded from Google Drive, don't commit
+data/
+flood_dataset.zip
+models/
+*.h5
+*.keras
+*.tflite
+
+# Colab / analysis artifacts
+uploaded_images/
+*_extracted/
+results.csv
+analysis_report.png
+flood_analysis_results*/
+*.zip
+
+# IDE
+.idea/
+.vscode/
